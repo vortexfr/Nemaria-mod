@@ -1,0 +1,37 @@
+# Build output
+build/
+bin/
+
+# Eclipse
+.classpath
+.project
+*.launch
+eclipse/
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# Server runtime files
+logs/
+crash-reports/
+saves/
+world/
+world-*/
+config/
+mods/
+resourcepacks/
+options.txt
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+usernamecache.json
+whitelist.json
+eula.txt
+server.properties
+
+# OS
+.DS_Store
+Thumbs.db
